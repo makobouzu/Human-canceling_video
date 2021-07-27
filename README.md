@@ -15,7 +15,7 @@ Download the pretrained model [here](https://drive.google.com/file/d/1uMghKl883-
 - Run [Google colab project](https://github.com/makobouzu/Human-canceling_video/blob/master/human_canceling_video.ipynb).
 
 ## Detail
-mp4 file input -> sequential numbered images & Human mask images -> inpainting images -> mp4 file output
+mp4 file input(1920x1080) -> sequential numbered images & Human mask images -> inpainting images -> mp4 file output(1920x1080)
 ## Acknowledgments
 Thanks for [DeepFillv2 pytorch](https://github.com/piggy2303/DeepFillv2_Pytorch).  
 The main code is based upon [deepfillv2](https://github.com/zhaoyuzhi/deepfillv2).  
